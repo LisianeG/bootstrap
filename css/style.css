@@ -1,6 +1,10 @@
 .nav-link, a{
     color: #fff;
 }
+
+.nav-link:hover{
+    transition: 1s purple;
+}
 .navbar-nav{
     margin-left: 100px;
 }
